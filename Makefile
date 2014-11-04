@@ -1,4 +1,4 @@
-.PHONY: main.pdf all clean
+.PHONY: resume.pdf all clean
  
 all: resume.pdf
  
